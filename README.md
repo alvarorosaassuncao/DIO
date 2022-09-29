@@ -11,6 +11,16 @@ Neste repositório ficará meus projetos da plataforma [DIO](https://www.dio.me/
 
 Neles serão usadas varias bibliotecas da linguagem de programação Python.
 
+# Ciência de Dados DIO
+<h2>Repositório para fins de estudos e desafios/DIO-Unimed-BH</h2>
+Links para entendimento das bibliotecas usadas no projeto 
+
+[Documentação Pandas](https://pandas.pydata.org/docs/development/index.html#development)<br>
+[Documentação Numpy](https://numpy.org/devdocs/dev/index.html#devindex)<br>
+[Documentação Matplotlib](https://matplotlib.org/stable/index.html)
+
+*Para melhor visualizar os gráficos, clik na parte superior esquerda no ícone COLAB*
+
 
 
 
